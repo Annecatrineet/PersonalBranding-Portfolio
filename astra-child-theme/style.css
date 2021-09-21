@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Astra Child Theme
+ Author:       Anne Catrine Elgaard Thorsager
+ Author URI:   http://example.com
+ Template:     astra
+ Version:      0.0.6
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         Blog, Custom Colors, Custom Logo, Custom Menu, E-Commerce, Editor Style, Entertainment, Featured Images, Full Width Template, Left Sidebar, Microformats, One Column, Post Formats, Right Sidebar, RTL Language Support, Theme Options, Threaded Comments, Translation Ready, Two Column
+ Text Domain:  twentyfifteenchild
+*/
+
+/*styling af header*/
+.site-primary-header-wrap.ast-builder-grid-row-container.site-header-focus-item.ast-container {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+/*styling af kompetence container*/
+.elementor-image-box-wrapper {
+    margin-right: 50px !important;
+}
+
+/*styling af ikoner på om mig siden*/
+svg#Lag_3 {
+    width: 500px;
+    top: 50px;
+    margin-right: 30px;
+}
